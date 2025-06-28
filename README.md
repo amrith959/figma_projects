@@ -8,8 +8,8 @@ A sleek and modern landing page UI concept for the *Kawasaki Ninja 500 Sport Bik
 ## 🔥 Preview
 
 ![Kawasaki Ninja 500 - Silver Variant]("")
-![Kawasaki Ninja 500 - Black Variant](./images/ninja-black.jpg)
-![Kawasaki Ninja 500 - Green Variant](./images/ninja-green.jpg)
+![Kawasaki Ninja 500 - Black Variant](BLACK NINJA.jpg)
+![Kawasaki Ninja 500 - Green Variant]()
 
 > 📁 Note: Add your actual image paths in place of the placeholders above.
 
